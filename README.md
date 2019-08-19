@@ -11,3 +11,5 @@ Using Machine Learning and Statistical models to achieve below mentioned automat
 - Automating - Patent Freedom to Operate Analysis.
 - Automating - Patent Validity or Invalidity Searches.
 - Automating - Full Text indexing and searches of - FERs (First Examination Reports)
+
+
