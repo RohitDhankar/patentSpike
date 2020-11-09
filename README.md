@@ -1,5 +1,4 @@
 # patentSpike
-patentSpike
 
 
 
